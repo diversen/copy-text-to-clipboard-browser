@@ -1,9 +1,11 @@
 # copy-text-to-clipboard-browser
 
-This is a browser version of this module: 
+This is a browser version of this node module: 
 
 https://github.com/sindresorhus/copy-text-to-clipboard
 
-example: open <index.html> in a browser
+Usage: 
 
-@ MIT
+See [index.html](index.html)
+
+@MIT
