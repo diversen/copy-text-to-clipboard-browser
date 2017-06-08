@@ -1,0 +1,16 @@
+<body>
+<script src="copy-text-to-clipboard.js"></script>
+<script>
+const getUnicorns = count => '🦄'.repeat(count);
+
+const button = document.createElement('button');
+button.textContent = 'Copy 🦄';
+button.style.fontSize = '40px';
+document.body.appendChild(button);
+
+let i = 1;
+button.addEventListener('click', () => {
+  copyTextToClipboard(getUnicorns(i));
+  button.textContent = `Copy ${getUnicorns(++i)}`;
+});
+</script>
