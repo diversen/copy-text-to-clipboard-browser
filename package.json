@@ -1,6 +1,6 @@
 {
   "name": "copy-text-to-clipboard-browser",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "repository": "https://github.com/diversen/copy-text-to-clipboard-browser",
   "description": "copy-text-to-clipboard for browser",
   "main": "index.js",

@@ -2,7 +2,7 @@
 
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
 
-/* Package: copy-text-to-clipboard-browser. Version: 1.0.1. License: MIT. Author: dennis iversen   */(function (f) {
+/* Package: copy-text-to-clipboard-browser. Version: 2.0.0. License: MIT. Author: dennis iversen   */(function (f) {
 	if ((typeof exports === "undefined" ? "undefined" : _typeof(exports)) === "object" && typeof module !== "undefined") {
 		module.exports = f();
 	} else if (typeof define === "function" && define.amd) {
